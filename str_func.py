@@ -1,5 +1,5 @@
 def upper_upper(text):
-    """function for upper symbols"""
+    """functionupper symbols"""
     return text.upper()
 
 
