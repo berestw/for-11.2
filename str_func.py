@@ -1,2 +1,2 @@
-def upper_upper(text):
+def text_upper(text):
     return text.upper()
