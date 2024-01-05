@@ -4,5 +4,5 @@ def upper_upper(text):
 
 
 def title_title(text):
-    """function for title symbols"""
+    """function title symbols"""
     return text.title()
